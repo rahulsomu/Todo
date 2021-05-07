@@ -239,5 +239,10 @@ body {
     /* justify-content: center;
     align-items: center; */
     background-color: #bac1b8;
+    position: relative;
+  }
+  .todo-container{
+     position: absolute;
+     top: 0;
   }
 }
