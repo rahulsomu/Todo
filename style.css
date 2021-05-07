@@ -243,6 +243,6 @@ body {
   }
   .todo-container{
      position: absolute;
-     top: 0;
+     top: 20rem;
   }
 }
