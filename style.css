@@ -230,6 +230,14 @@ body {
 
 @media (max-width: 380px) {
   html {
-    font-size: 50%;
+    font-size: 40%;
+  }
+  body {
+    height: unset;
+    width: 100%;
+    /* display: flex; */
+    /* justify-content: center;
+    align-items: center; */
+    background-color: #bac1b8;
   }
 }
