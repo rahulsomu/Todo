@@ -243,6 +243,8 @@ body {
   }
   .todo-container{
      position: absolute;
-     top: 20rem;
+     top: 0rem;
+     height:100%;
+     width: 100%;
   }
 }
